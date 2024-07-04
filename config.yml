@@ -1,0 +1,4 @@
+paths:
+  inputfile: "../handout.pdf"
+  outputname: "theo-slides_"
+  outputdir: "../important_slides/"
